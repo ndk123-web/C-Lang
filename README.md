@@ -46,6 +46,16 @@ However, the code may lack comments and advanced optimizations since it was writ
 
 ---
 
+## 🤝 Contributing
+
+This repository is primarily for personal learning purposes.  
+However, if you have any suggestions, feel free to:
+1. Open an issue 🐛
+2. Share your feedback ✍️
+
+Pull requests are not expected or required at this moment.
+
+
 ## 🚀 Connect
 If you're also learning C programming or want to discuss concepts, feel free to connect!
 
